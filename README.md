@@ -1,4 +1,4 @@
-### 🥝 Crypto Schedule
+### 🥝 Crypto Table
 
 An application for monitoring current information on the state of the cryptocurrency market.
 
