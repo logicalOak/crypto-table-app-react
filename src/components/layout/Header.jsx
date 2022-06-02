@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { SiBitcoinsv } from 'react-icons/Si';
+import { SiBitcoinsv } from 'react-icons/all';
 
 const Header = () => {
 	return (
